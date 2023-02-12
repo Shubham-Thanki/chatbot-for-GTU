@@ -1,0 +1,32 @@
+{
+  "190320107135": {
+    "sem": 3,
+    "exmfee": true,
+    "result": "https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing",
+    "branch": "CE"
+  },
+  "190320107140": {
+    "sem": 4,
+    "exmfee": false,
+    "result": "https://drive.google.com/file/d/10Oo5nHCMSFiPbYcbVZeOn-uM8zo2f3Yi/view?usp=sharing",
+    "branch": "ME"
+  },
+  "190320107145": {
+    "sem": 5,
+    "exmfee": false,
+    "result": "https://drive.google.com/file/d/10NqALKLZXlom-WxT2xC0hWHi_epwePze/view?usp=sharing",
+    "branch": "CH"
+  },
+  "190320107150": {
+    "sem": 6,
+    "exmfee": false,
+    "result": "https://drive.google.com/file/d/10M3Iw_atgnrq-iie7d8MmptAbN4t2gUL/view?usp=sharing",
+    "branch": "CL"
+  },
+  "190320107155": {
+    "sem": 7,
+    "exmfee": true,
+    "result": "https://drive.google.com/file/d/10Jo93Z8OrQLNcz48Ak3oYp2je9ghz2d8/view?usp=sharing",
+    "branch": "ME"
+  }
+}

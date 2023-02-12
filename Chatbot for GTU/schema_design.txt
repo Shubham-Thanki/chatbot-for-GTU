@@ -1,0 +1,7 @@
+1. enrollment - pre defined
+2. fee status - pre defined
+3. contact - pre defined
+4. branch - pre defined
+5. result - pre defined
+6. exam fee - pre defined
+7. sem - pre defined

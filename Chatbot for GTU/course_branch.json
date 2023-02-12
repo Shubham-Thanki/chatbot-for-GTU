@@ -1,0 +1,448 @@
+[
+   { "branch" : "CE",
+    "desc": "==>Computer Engineering combines several disciplines of computer science and electronics to develop computer hardware and software. A computer engineer designs and develops computer systems and other technological devices. The Computer Engineering course teaches how to prototype and test microchips, circuits, processors, conductors and other components used in computer devices or systems. It also teaches how to develop firmware, an essential type of software that allows operating systems and applications to take full advantage of the hardware.\n\n==> A computer hardware engineer researches, designs, develops and tests computer systems and components such as processors, circuit boards, memory devices, networks and routers. Software engineering teaches how to build everything from small circuits to large systems. This branch of engineering trains students to design, construct, and repair any digital system. Candidates can go through this article for more detailed information about Computer Engineering.",
+    "companies": [
+      {
+        "name": "Accenture",
+        "size": "10000+ Employees",
+        "link": "https://www.accenture.com/in-en"
+      },
+      {
+        "name": "Tata Consultancy Services",
+        "size": "10000+ Employees",
+        "link": "www.tcs.com"
+      },
+      {
+        "name": "Infosys",
+        "size": "10000+ Employees",
+        "link": "www.infosys.com"
+      },
+      {
+        "name": "Amazon",
+        "size": "10000+ Employees",
+        "link": "www.amazon.jobs"
+      },
+      {
+        "name": "Capgemini",
+        "size": "10000+ Employees",
+        "link": "www.capgemini.com/in-en"
+      }
+    ],
+    "colleges": [
+      {
+        "name": "MSU Baroda - Maharaja Sayajirao University of Baroda",
+        "ownership": "public/gov.",
+        "established": "Established in 1949",
+        "link": "https://www.msubaroda.ac.in/",
+        "fees": "34,000₹ per annum"
+      },
+      {
+        "name": "LDCE Ahmedabad - LD College of Engineering",
+        "ownership": "gov.",
+        "established": "Established in 1948",
+        "link": "http://ldce.ac.in/",
+        "fees": "1500₹ per annum"
+      },
+      {
+        "name": "Nirma University, Ahmedabad",
+        "ownership": "Private",
+        "established": "Established in 2003",
+        "link": "https://nirmauni.ac.in/",
+        "fees": "2,29,000₹ per annum"
+      },
+      {
+        "name": "SVNIT Surat - Sardar Vallabhbhai National Institute of Technology",
+        "ownership": "public/gov.",
+        "established": "Established in 2002",
+        "link": "svnit.ac.in",
+        "fees": "1,54,000₹ per annum"
+      },
+      {
+        "name": "IIT Gandhinagar - Indian Institute of Technology",
+        "ownership": "public/gov.",
+        "established": "Established in 2008",
+        "link": "https://iitgn.ac.in",
+        "fees": "48,500₹ per annum"
+      },
+      {
+        "name": "DAIICT Gandhinagar - Dhirubhai Ambani Institute of Information and Communication Technology",
+        "ownership": "Private",
+        "established": "Established in 2001",
+        "link": "https://www.daiict.ac.in",
+        "fees": "86,000₹ per semester"
+      }
+    ],
+
+    "papers":[
+      {
+        "year":"2019",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2020",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2021",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      }
+    ]
+  },
+
+  
+  { "branch" :"IT",
+    "desc": "==>IT engineers are high-level IT personnel who design, install, and maintain a companys computer systems. They are responsible for testing, configuring, and troubleshooting hardware, software, and networking systems to meet the needs of the employer. IT engineers may also be required to train staff and manage projects.\n==> IT engineers may either specialize in software development, computer hardware engineering, or network engineering. Software development focuses on computer programming and smartphone apps. Computer hardware engineering involves designing physical products and ensuring networks operate properly so every employee can do their jobs without interruption. Network engineers work with computer networks (intranets and extranets) and need to be familiar with different network types (LANs, WANs, WLANs, VoIP, etc. IT engineers can expect high salaries and good job prospects—the vocation is in high demand and the market is expanding rapidly with even better opportunities in the future. The demand for IT engineers is expected to grow 13% from 2020 to 2030.",
+    "companies": [
+      {
+        "name": "Accenture",
+        "size": "10000+ Employees",
+        "link": "https://www.accenture.com/in-en"
+      },
+      {
+        "name": "Tata Consultancy Services",
+        "size": "10000+ Employees",
+        "link": "www.tcs.com"
+      },
+      {
+        "name": "Infosys",
+        "size": "10000+ Employees",
+        "link": "www.infosys.com"
+      },
+      {
+        "name": "Amazon",
+        "size": "10000+ Employees",
+        "link": "www.amazon.jobs"
+      },
+      {
+        "name": "Capgemini",
+        "size": "10000+ Employees",
+        "link": "www.capgemini.com/in-en"
+      }
+    ],
+    "colleges": [
+      {
+        "name": "MSU Baroda - Maharaja Sayajirao University of Baroda",
+        "ownership": "public/gov.",
+        "established": "Established in 1949",
+        "link": "https://www.msubaroda.ac.in/",
+        "fees": "34,000₹ per annum"
+      },
+      {
+        "name": "LDCE Ahmedabad - LD College of Engineering",
+        "ownership": "gov.",
+        "established": "Established in 1948",
+        "link": "http://ldce.ac.in/",
+        "fees": "1500₹ per annum"
+      },
+      {
+        "name": "Nirma University, Ahmedabad",
+        "ownership": "Private",
+        "established": "Established in 2003",
+        "link": "https://nirmauni.ac.in/",
+        "fees": "2,29,000₹ per annum"
+      },
+      {
+        "name": "SVNIT Surat - Sardar Vallabhbhai National Institute of Technology",
+        "ownership": "public/gov.",
+        "established": "Established in 2002",
+        "link": "svnit.ac.in",
+        "fees": "1,54,000₹ per annum"
+      },
+      {
+        "name": "IIT Gandhinagar - Indian Institute of Technology",
+        "ownership": "public/gov.",
+        "established": "Established in 2008",
+        "link": "https://iitgn.ac.in",
+        "fees": "48,500₹ per annum"
+      },
+      {
+        "name": "DAIICT Gandhinagar - Dhirubhai Ambani Institute of Information and Communication Technology",
+        "ownership": "Private",
+        "established": "Established in 2001",
+        "link": "https://www.daiict.ac.in",
+        "fees": "86,000₹ per semester"
+      }
+    ],
+    "papers":[
+      {
+        "year":"2019",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2020",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2021",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      }
+    ]
+  },
+
+  { "branch" :"ICT",
+    "desc": "==>Information and Communication Technology is the Engineering Branch that recently came into existence with a mission to provide a wider perspective on the nature of technology, its use and application to the living world. Engineering is not only about the experimentation and learning. It is about the impact it has on the society. Information and Communication Technology has been the branch of Engineering that humans have used all through the evolution process for being the most advanced creature on the Earth. Moreover developing countries try to improve their lives and gain a competitive edge using Information and Communication.\n\n==> ICT engineering has courses in three technical dimension (TechD1,TechD2, TechD3). The course identifies the required core and optionals to be offered. \n\n TechD1: Basics of electronics, Analog and Digital Electronics, Digital hardware, Digital Processors, Solid State Devices, VLSI, Architecture, DSP and inline advance courses. \n\n TechD2: Structured and Object oriented languages, Data structures, Algorithms, Cryptography, Database Management, Operating Systems, Networking and other inline advanced courses.\n\nTechD3: Signal and Systems, Basics of Communications, Analog and Digital Communications, RF and other inline courses.",
+    "companies": [
+      {
+        "name": "Accenture",
+        "size": "10000+ Employees",
+        "link": "https://www.accenture.com/in-en"
+      },
+      {
+        "name": "Tata Consultancy Services",
+        "size": "10000+ Employees",
+        "link": "www.tcs.com"
+      },
+      {
+        "name": "Infosys",
+        "size": "10000+ Employees",
+        "link": "www.infosys.com"
+      },
+      {
+        "name": "Amazon",
+        "size": "10000+ Employees",
+        "link": "www.amazon.jobs"
+      },
+      {
+        "name": "Capgemini",
+        "size": "10000+ Employees",
+        "link": "www.capgemini.com/in-en"
+      }
+    ],
+    "colleges": [
+      {
+        "name": "MSU Baroda - Maharaja Sayajirao University of Baroda",
+        "ownership": "public/gov.",
+        "established": "Established in 1949",
+        "link": "https://www.msubaroda.ac.in/",
+        "fees": "34,000₹ per annum"
+      },
+      {
+        "name": "LDCE Ahmedabad - LD College of Engineering",
+        "ownership": "gov.",
+        "established": "Established in 1948",
+        "link": "http://ldce.ac.in/",
+        "fees": "1500₹ per annum"
+      },
+      {
+        "name": "Nirma University, Ahmedabad",
+        "ownership": "Private",
+        "established": "Established in 2003",
+        "link": "https://nirmauni.ac.in/",
+        "fees": "2,29,000₹ per annum"
+      },
+      {
+        "name": "SVNIT Surat - Sardar Vallabhbhai National Institute of Technology",
+        "ownership": "public/gov.",
+        "established": "Established in 2002",
+        "link": "svnit.ac.in",
+        "fees": "1,54,000₹ per annum"
+      },
+      {
+        "name": "IIT Gandhinagar - Indian Institute of Technology",
+        "ownership": "public/gov.",
+        "established": "Established in 2008",
+        "link": "https://iitgn.ac.in",
+        "fees": "48,500₹ per annum"
+      },
+      {
+        "name": "DAIICT Gandhinagar - Dhirubhai Ambani Institute of Information and Communication Technology",
+        "ownership": "Private",
+        "established": "Established in 2001",
+        "link": "https://www.daiict.ac.in",
+        "fees": "86,000₹ per semester"
+      }
+    ],
+    "papers":[
+      {
+        "year":"2019",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2020",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2021",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      }
+    ]
+  },
+
+  { "branch" :"ME",
+    "desc": "==>Mechanical engineering is an engineering branch that combines engineering physics and mathematics principles with materials science, to design, analyze, manufacture, and maintain mechanical systems.[1] It is one of the oldest and broadest of the engineering branches.\n\n==>The mechanical engineering field requires an understanding of core areas including mechanics, dynamics, thermodynamics, materials science, structural analysis, and electricity. In addition to these core principles, mechanical engineers use tools such as computer-aided design (CAD), computer-aided manufacturing (CAM), and product lifecycle management to design and analyze manufacturing plants, industrial equipment and machinery, heating and cooling systems, transport systems, aircraft, watercraft, robotics, medical devices, weapons, and others. It is the branch of engineering that involves the design, production, and operation of machinery.\n\n==> Mechanical engineering emerged as a field during the Industrial Revolution in Europe in the 18th century; however, its development can be traced back several thousand years around the world. In the 19th century, developments in physics led to the development of mechanical engineering science. The field has continually evolved to incorporate advancements; today mechanical engineers are pursuing developments in such areas as composites, mechatronics, and nanotechnology. It also overlaps with aerospace engineering, metallurgical engineering, civil engineering, structural engineering, electrical engineering, manufacturing engineering, chemical engineering, industrial engineering, and other engineering disciplines to varying amounts. Mechanical engineers may also work in the field of biomedical engineering, specifically with biomechanics, transport phenomena, biomechatronics, bionanotechnology, and modelling of biological systems.",
+    "companies": [
+      {
+        "name": "Honeywell",
+        "size": "10000+ Employees",
+        "link": "www.honeywell.com"
+      },
+      {
+        "name": "Tata Consultancy Services",
+        "size": "10000+ Employees",
+        "link": "www.tcs.com"
+      },
+      {
+        "name": "Reliance Industries",
+        "size": "10000+ Employees",
+        "link": "www.ril.com"
+      },
+      {
+        "name": "Larsen & Toubro",
+        "size": "10000+ Employees",
+        "link": "www.larsentoubro.com/"
+      },
+      {
+        "name": "Tech Mahindra",
+        "size": "10000+ Employees",
+        "link": "www.techmahindra.com"
+      }
+    ],
+    "colleges": [
+      {
+        "name": "MSU Baroda - Maharaja Sayajirao University of Baroda",
+        "ownership": "public/gov.",
+        "established": "Established in 1949",
+        "link": "https://www.msubaroda.ac.in/",
+        "fees": "34,000₹ per annum"
+      },
+      {
+        "name": "LDCE Ahmedabad - LD College of Engineering",
+        "ownership": "gov.",
+        "established": "Established in 1948",
+        "link": "http://ldce.ac.in/",
+        "fees": "1500₹ per annum"
+      },
+      {
+        "name": "Nirma University, Ahmedabad",
+        "ownership": "Private",
+        "established": "Established in 2003",
+        "link": "https://nirmauni.ac.in/",
+        "fees": "2,29,000₹ per annum"
+      },
+      {
+        "name": "VGEC-Ahmedabad",
+        "ownership": "gov.",
+        "established": "Established in 1994",
+        "link": "https://www.vgecg.ac.in",
+        "fees": "1500₹ per annum"
+      },
+      {
+        "name": "IIT Gandhinagar - Indian Institute of Technology",
+        "ownership": "public/gov.",
+        "established": "Established in 2008",
+        "link": "https://iitgn.ac.in",
+        "fees": "48,500₹ per annum"
+      },
+      {
+        "name": "GEC Gandhinagar",
+        "ownership": "gov.",
+        "established": "Established in 2004",
+        "link": "https://gecg28.ac.in",
+        "fees": "86,000₹ per semester"
+      }
+    ],
+    "papers":[
+      {
+        "year":"2019",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2020",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2021",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      }
+    ]
+  },
+
+  { "branch" :"CL",
+    "desc": "==>Civil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including public works such as roads, bridges, canals, dams, airports, sewage systems, pipelines, structural components of buildings, and railways.\n\n==> Civil engineering is traditionally broken into a number of sub-disciplines. It is considered the second-oldest engineering discipline after military engineering,[3] and it is defined to distinguish non-military engineering from military engineering.[4] Civil engineering can take place in the public sector from municipal public works departments through to federal government agencies, and in the private sector from locally based firms to global Fortune 500 companies.",
+    "companies": [
+      {
+        "name": "Site Engineering",
+        "size": "10000+ Employees",
+        "link": "www.siteengineeringinc.com"
+      },
+      {
+        "name": "Tata Consultancy Services",
+        "size": "10000+ Employees",
+        "link": "www.tcs.com"
+      },
+      {
+        "name": "Larsen & Toubro",
+        "size": "10000+ Employees",
+        "link": "www.larsentoubro.com/"
+      },
+      {
+        "name": "Shapoorji Pallonji",
+        "size": "10000+ Employees",
+        "link": "www.shapoorjipallonji.com"
+      },
+      {
+        "name": "NCC Limited",
+        "size": "10000+ Employees",
+        "link": "www.ncclimited.com"
+      }
+    ],
+    "colleges": [
+      {
+        "name": "MSU Baroda - Maharaja Sayajirao University of Baroda",
+        "ownership": "public/gov.",
+        "established": "Established in 1949",
+        "link": "https://www.msubaroda.ac.in/",
+        "fees": "34,000₹ per annum"
+      },
+      {
+        "name": "LDCE Ahmedabad - LD College of Engineering",
+        "ownership": "gov.",
+        "established": "Established in 1948",
+        "link": "http://ldce.ac.in/",
+        "fees": "1500₹ per annum"
+      },
+      {
+        "name": "Nirma University, Ahmedabad",
+        "ownership": "Private",
+        "established": "Established in 2003",
+        "link": "https://nirmauni.ac.in/",
+        "fees": "2,29,000₹ per annum"
+      },
+      {
+        "name": "IITRAM Maninagar Ahmedabad",
+        "ownership": "public",
+        "established": "Established in 2013",
+        "link": "https://iitram.ac.in/btech",
+        "fees": "72,500₹ per annum"
+      },
+      {
+        "name": "IIT Gandhinagar - Indian Institute of Technology",
+        "ownership": "public/gov.",
+        "established": "Established in 2008",
+        "link": "https://nirmauni.ac.in/",
+        "fees": "48,500₹ per annum"
+      },
+      {
+        "name": "VGEC-Ahmedabad",
+        "ownership": "gov.",
+        "established": "Established in 1994",
+        "link": "https://www.vgecg.ac.in",
+        "fees": "1500₹ per annum"
+      }
+    ],
+    "papers":[
+      {
+        "year":"2019",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2020",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      },
+      {
+        "year":"2021",
+        "link":"https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing"
+      }
+    ]
+  }
+]

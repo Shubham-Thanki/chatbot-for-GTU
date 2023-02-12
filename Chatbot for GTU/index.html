@@ -1,0 +1,398 @@
+<!-- This is the index page that shows admin dashboard -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin | Gtu-Chat-Bot</title>
+  <link rel="shortcut icon" href="/img/gtu-modified.png" type="image/x-icon" />
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <link rel="stylesheet" href="bootstrap.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,500;1,600;1,700&display=swap');
+
+    * {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      background-color: #fafafa;
+      background-image: url("/img/education2.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+
+    }
+
+    .navbar-brand img {
+      width: 70px;
+      height: 70px;
+    }
+
+
+    .form {
+      margin-top: 3rem;
+
+      /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(214, 209, 209, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+      padding: 3%;
+      /* box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px; */
+
+    }
+
+    .second {
+      margin-top: 5rem;
+    }
+
+    .container {
+      background-color: #fff;
+      border-radius: 10px;
+    }
+
+    .check-div {
+      display: flex;
+      gap: 2rem;
+
+    }
+
+    input[type="checkbox"] {
+      border: 1px solid #000;
+    }
+
+    input[type="radio"] {
+      border: 1px solid #000;
+    }
+  </style>
+
+</head>
+
+<body>
+  <!-- navigation bar starts -->
+
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/"><img src="/img/gtu.jpg" alt=""></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#update">Important Updates!</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#fees">Fees Alert</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Informative links
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="https://www.100points.gtu.ac.in/" target="_blank">100 points
+                  activity</a></li>
+              <li><a class="dropdown-item" href="https://pmms.gtu.ac.in/GTULoginPage" target="_blank">pmms portal</a>
+              </li>
+              <li><a class="dropdown-item" href="https://de.gtu.ac.in/" target="_blank">design engineering</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- navigation bar ends -->
+
+
+  <!-- form start -->
+  <div class="container" data-aos="fade-right" data-aos-duration="800">
+    <form action="/impsubmit" class="form" id="update" method="get">
+      <h3>Important Updates!</h3>
+
+
+
+      <div class="form-group form-floating" data-aos="fade-left" data-aos-duration="800">
+
+
+        <textarea name="exampleInputMessage" cols="30" rows="10" class="form-control"
+          placeholder="Enter your message here..." data-aos="fade-down-left" data-aos-duration="800"
+          name="message"></textarea>
+        <label for="exampleInputMessage">Message</label>
+
+      </div>
+
+
+
+      <div class="form-group ">
+        <label for="exampleFormControlFile">Include files if you want... </label> <br>
+
+        <input type="file" class="form-control-file my-3" id="exampleFormControlFile" data-aos="fade-down-right"
+          data-aos-duration="800" name="files">
+      </div>
+
+      <div class="check-div">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-1" name="updateCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 1
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-2" name="updateCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 2
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-3" name="updateCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 3
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-4" name="updateCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 4
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-5" name="updateCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 5
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-6" name="updateCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 6
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-7" name="updateCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 7
+          </label>
+        </div>
+
+        <div class="form-check mb-2">
+          <input class="form-check-input" type="checkbox" value="sem-8" name="updateCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 8
+          </label>
+        </div>
+
+      </div>
+      <button type="button" class="btn btn-outline-dark mb-3" data-aos="fade-down"
+        data-aos-anchor-placement="center-bottom" onclick="selectAll('updateCheckbox')"">Send to all</button>
+
+      <button type=" button" class="btn btn-outline-dark mb-3" data-aos="fade-down"
+        data-aos-anchor-placement="center-bottom" onclick="deSelectAll('updateCheckbox')">Reset</button>
+
+
+
+      <button class="btn btn-outline-dark btn-block" data-aos="fade-up"
+        data-aos-anchor-placement="center-bottom">Send</button>
+
+    </form>
+  </div>
+  <!-- form ends -->
+
+
+  <!-- second form for fees alert starts -->
+
+
+  <div class="container second" data-aos="fade-left">
+    <form class="form" id="fees" action="/feealert" method="get">
+      <h3>Fees Alert!</h3>
+
+      <!-- radio button -->
+
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="feeCategory" value="current">Current
+
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="feeCategory" value="remedial">remedial
+
+      </div>
+      <div class="form-check">
+        <input class="form-check-input" type="radio" name="feeCategory" onclick="selectAll()" value="both">select both
+
+      </div>
+      <!-- radio button -->
+
+
+
+
+      <div class="form-group form-floating mt-4" data-aos="fade-down-right" data-aos-duration="800">
+
+
+        <input type="number" class="form-control" id="exampleInputDate" placeholder="Date..." min="1" max="31"
+          name="date" />
+        <label for="exampleInputDate">Date</label>
+
+      </div>
+
+      <div class="form-group form-floating" data-aos="fade-down-left" data-aos-duration="800">
+
+
+
+        <input name="month" type="number" class="form-control" id="exampleInputMonth" placeholder="Month..." min="1"
+          max="12" />
+        <label for="exampleInputMonth">Month</label>
+
+      </div>
+
+      <div class="form-group form-floating" data-aos="fade-down-right" data-aos-duration="800">
+
+
+
+        <input name="year" type="number" class="form-control" id="exampleInputYear" placeholder="Year..." min="2022" />
+        <label for="exampleInputYear">Year</label>
+      </div>
+
+
+      <div class="form-group form-floating" data-aos="fade-down-left" data-aos-duration="800">
+
+
+
+        <input name="hour" type="number" class="form-control" id="exampleInputHour" placeholder="Hour..." min="1"
+          max="24" />
+        <label for="exampleInputHour">Hour</label>
+      </div>
+
+
+      <div class="form-group form-floating" data-aos="fade-down-right" data-aos-duration="800">
+
+
+
+        <input name="minute" type="number" class="form-control" id="exampleInputMinute" placeholder="Minute..." min="0"
+          max="59" />
+        <label for="exampleInputMinute">Minute</label>
+
+      </div>
+
+      <div class="check-div">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-1" name="feeCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 1
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-2" name="feeCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 2
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-3" name="feeCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 3
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-4" name="feeCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 4
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-5" name="feeCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 5
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-6" name="feeCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 6
+          </label>
+        </div>
+
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="sem-7" name="feeCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 7
+          </label>
+        </div>
+
+        <div class="form-check mb-2">
+          <input class="form-check-input" type="checkbox" value="sem-8" name="feeCheckbox">
+          <label class="form-check-label" for="flexCheckDefault">
+            sem 8
+          </label>
+        </div>
+      </div>
+      <button type="button" class="btn btn-outline-dark mb-3" data-aos="fade-down"
+        data-aos-anchor-placement="center-bottom" onclick="selectAll('feeCheckbox')"">Send to all</button>
+  
+        <button type=" button" class="btn btn-outline-dark mb-3" data-aos="fade-down"
+        data-aos-anchor-placement="center-bottom" onclick="deSelectAll('feeCheckbox')">Reset</button>
+
+
+
+      <button class="btn btn-outline-dark btn-block" data-aos="fade-down"
+        data-aos-anchor-placement="center-bottom">Send</button>
+    </form>
+  </div>
+
+
+  <!-- second form for fees alert ends -->
+
+
+
+
+
+
+
+
+</body>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+<script>
+  AOS.init();
+
+  function selectAll(current) {
+    let checkBoxes = document.getElementsByName(current);
+
+    console.log("inside");
+    checkBoxes.forEach((ele) => {
+      ele.setAttribute("checked", "true");
+    })
+  }
+
+  function deSelectAll(current) {
+    let checkBoxes = document.getElementsByName(current);
+    console.log("inside");
+    checkBoxes.forEach((ele) => {
+      ele.removeAttribute("checked");
+    })
+  }
+
+
+
+
+
+</script>
+
+</html>

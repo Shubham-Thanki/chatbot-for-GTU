@@ -1,0 +1,42 @@
+[
+  {
+    "enr": 190320107135,
+    "sem": 3,
+    "exmfee": true,
+    "result": "https://drive.google.com/file/d/10RjnSlc2vBozjkal4OEDMlwDJOJILCMV/view?usp=sharing",
+    "branch": "CE",
+    "phnum": "9409148598"
+  },
+  {
+    "enr": 190320107140,
+    "sem": 4,
+    "exmfee": false,
+    "result": "https://drive.google.com/file/d/10Oo5nHCMSFiPbYcbVZeOn-uM8zo2f3Yi/view?usp=sharing",
+    "branch": "ME",
+    "phnum": "9687205427"
+  },
+  {
+    "enr": 190320107145,
+    "sem": 5,
+    "exmfee": false,
+    "result": "https://drive.google.com/file/d/10NqALKLZXlom-WxT2xC0hWHi_epwePze/view?usp=sharing",
+    "branch": "CH",
+    "phnum": "9909848666"
+  },
+  {
+    "enr": 190320107150,
+    "sem": 6,
+    "exmfee": false,
+    "result": "https://drive.google.com/file/d/10M3Iw_atgnrq-iie7d8MmptAbN4t2gUL/view?usp=sharing",
+    "branch": "CL",
+    "phnum": "9773450547"
+  },
+  {
+    "enr": 190320107155,
+    "sem": 7,
+    "exmfee": true,
+    "result": "https://drive.google.com/file/d/10Jo93Z8OrQLNcz48Ak3oYp2je9ghz2d8/view?usp=sharing",
+    "branch": "ME",
+    "phnum": "7359413156"
+  }
+]

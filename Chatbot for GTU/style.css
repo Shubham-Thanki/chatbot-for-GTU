@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    
+}
+
+
+#hero-img{
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    
+}
+.alert-btn{
+    position: absolute;
+    top: 24rem;
+
+    left: 20rem;
+    
+}
+
+form{
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.btns{
+    display: flex;
+}
+
+.fees{
+    margin-left: 1rem;
+}
